@@ -1,6 +1,5 @@
 <resources>
-    <string name="app_name">project_team5</string>
-    <string name="title_activity_splash">SplashActivity</string>
+    <string name="app_name">Payplan</string>
 
     <!-- 다른 문자열 리소스들 -->
     <string-array name="ranking_options">
